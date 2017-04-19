@@ -1,7 +1,7 @@
 
-# Python binding for theyworkforyou.com API
+# twfy-python - Python binding for TheyWorkForYou API
 
-Adaptation of Paul Doran's [twfython](http://code.google.com/p/twfython/). Now works in Python 2/3.
+Adaptation of Paul Doran's [twfython](http://code.google.com/p/twfython/). Now works in Python 2/3. Some basic behaviour changed, so package renamed.
 
 You will need an API key to use the theyworkforyou.com API, get one here http://www.theyworkforyou.com/api/key 
 
