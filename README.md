@@ -1,6 +1,5 @@
-=========================================
-Python binding for theyworkforyou.com API
-=========================================
+
+# Python binding for theyworkforyou.com API
 
 Adaptation of Paul Doran's [twfython](http://code.google.com/p/twfython/). Now works in Python 2/3.
 
@@ -15,6 +14,7 @@ pip install -e git+https://github.com/ajparsons/twfy_python.git#egg=twfy_python
 ```
 
 Example:
+
 ```python
 from twfy_python import TheyWorkForYou
 
