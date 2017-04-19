@@ -10,7 +10,7 @@ For more info on the theyworkforyou.com API see http://www.theyworkforyou.com/ap
 Install with pip using:
 
 ```
-pip install -e git+https://github.com/ajparsons/twfy_python.git#egg=twfy_python
+pip install -e git+https://github.com/ajparsons/twfy-python.git#egg=twfy_python
 ```
 
 Example:
